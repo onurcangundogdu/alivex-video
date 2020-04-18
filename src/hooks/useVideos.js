@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import youtube from '../api/youtube'
 import {YOUTUBE_KEY} from '../config'
-import response from '../data/videos.json'
+//import response from '../data/videos.json'
 
 export default () => {
   const [videos, setVideos] = useState([])
@@ -9,7 +9,6 @@ export default () => {
 
   const searchVideos = async () => {
     try {
-      /*
       const response = await youtube.get("/search", {
         params: {
           q: 'fitness',
@@ -19,7 +18,6 @@ export default () => {
           key: YOUTUBE_KEY
         }
       })
-      */
      
       const formattedVideos = response.data.items.map(item => {
         return {

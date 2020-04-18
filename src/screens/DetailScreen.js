@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { Text, View, StyleSheet} from 'react-native'
 import youtube from '../api/youtube'
 import { YOUTUBE_KEY } from '../config'
-import response from '../data/video.json'
+//import response from '../data/video.json'
 import { WebView } from 'react-native-webview';
 
 const DetailScreen = ({route}) => {
