@@ -1,0 +1,86 @@
+ {
+   "data": {
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AAlLI29cXJ_o4vjjhvjsGIGhv0I\"",
+      "items": [
+         {
+          "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tC1M1FnllicH2hbvBsj0OFC4LEk\"",
+          "id": "fcN37TxBE_s",
+          "kind": "youtube#video",
+          "snippet":  {
+            "categoryId": "26",
+            "channelId": "UCiP6wD_tYlYLYh3agzbByWQ",
+            "channelTitle": "FitnessBlender",
+            "defaultAudioLanguage": "en-US",
+            "description": "Calorie Burn info @ http://bit.ly/Yc4FBc.",
+            "liveBroadcastContent": "none",
+            "localized":  {
+              "description": "Calorie Burn info @ http://bit.ly/Yc4FBc Search the most effective & affordable workout programs on the web @ http://bit.ly/13EdZgX",       
+              "title": "Fat Burning Cardio Workout - 37 Minute Fitness Blender Cardio Workout at Home"
+            },
+            "publishedAt": "2013-04-26T14:39:31.000Z",
+            "tags": [
+              "fitness blender",
+              "fitness",
+              "blender",
+              "fitness blender cardio",
+              "cardio",
+              "cardio workouts",
+              "at home cardio",
+              "cardio at home",
+              "burn fat fast cardio workout",
+              "burn fat fast",
+              "fat burning cardio",
+              "intermediate cardio workout",
+              "medium intensity cardio",
+              "fat loss workouts",
+              "best youtube workouts",
+              "youtube workouts",
+              "youtube workout videos",
+              "full length workout videos",
+              "cardio training",
+              "bodyweight cardio",
+              "workout",
+              "workouts",
+              "online workouts",
+              "free workouts online"
+            ],
+            "thumbnails":  {
+              "default":  {
+                "height": 90,
+                "url": "https://i.ytimg.com/vi/fcN37TxBE_s/default.jpg",
+                "width": 120
+              },
+              "high":  {
+                "height": 360,
+                "url": "https://i.ytimg.com/vi/fcN37TxBE_s/hqdefault.jpg",
+                "width": 480
+              },
+              "maxres":  {
+                "height": 720,
+                "url": "https://i.ytimg.com/vi/fcN37TxBE_s/maxresdefault.jpg",
+                "width": 1280
+              },
+              "medium":  {
+                "height": 180,
+                "url": "https://i.ytimg.com/vi/fcN37TxBE_s/mqdefault.jpg",
+                "width": 320
+              },
+              "standard":  {
+                "height": 480,
+                "url": "https://i.ytimg.com/vi/fcN37TxBE_s/sddefault.jpg",
+                "width": 640
+              }
+            },
+            "title": "Fat Burning Cardio Workout - 37 Minute Fitness Blender Cardio Workout at Home"
+          }
+        }
+      ],
+      "kind": "youtube#videoListResponse",
+      "pageInfo":  {
+        "resultsPerPage": 1,
+        "totalResults": 1
+      }
+    }
+ }
+ 
+ 
